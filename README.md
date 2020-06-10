@@ -3,7 +3,7 @@
 <meta charset="utf-8">
 <title>dchol web</title>
 <body>
-    <table>
+    <table cellspacing="20">
         <tr>
             <td><img src="dchol155.png"></td>
 <td><h1>Daniel Chol</h1>
