@@ -3,14 +3,16 @@
 <meta charset="utf-8">
 <title>dchol web</title>
 <body>
-    <img src="dchol155.png">
-<h1>Daniel Chol</h1>
+    <table>
+        <tr>
+            <td> <img src="dchol155.png"></td>
+<td><h1>Daniel Chol</h1>
 <p><em><p><a href="https://www.iitism.ac.in/">Indian Institute of technology(ISM),Dhanbad</a></p>
     <p><a href="https://www.iitism.ac.in/index.php/Departments/dept_pe">Department of Petroleum Engineering</a></p>
     <p>6th semester </p>
     <p>International Hostel</p>
-    <p>826004,Dhanbad</p>
-    <hr>==$0
+    <p>826004,Dhanbad</p></td></tr></table>
+    <hr>
     <p>I am a student at IIT(ISM) dhanbad ,currently pursuing bachelor's degree in petroleum engineering ,6th semeseter,the reason 
         behind choosing this course is to learn how to implement the latest known technology in Drilling ,production and reservoir enhancement in away that 
         the enviroment is not destoryed.coming from these areas where oil is explored and produced ,i have seen lots of misuse 
