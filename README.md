@@ -14,7 +14,7 @@
         behind choosing this course is to learn how to implement the latest known technology in Drilling ,production and reservoir enhancement in away that 
         the environment is not destoryed.coming from these areas where oil is explored and produced ,i have seen lots of misuse 
         and misimplemtaion of safety measures both to the environment and the local residents ,which is causing a risky dreadful health
-      hazard.poor <a href="https://www.glossary.oilfield.slb.com/en/Terms/g/gathering_system.aspx">GGC</a> waste disposals which is a result of unwillingness of finding new applied methods
+      hazard.poor <a href="https://www.glossary.oilfield.slb.com/en/Terms/g/gathering_system.aspx">GGS</a> waste disposals which is a result of unwillingness of finding new applied methods
         used currently in the industry.
         Secondly,increasing production,as much is a national concern ,is my mine too .for the good use of these God given natural 
         resourses to the maximum,can yield in building up a stronge economy for country ,lifting people from poverty 
