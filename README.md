@@ -48,7 +48,7 @@
                 </tr>
                 <tr>
                     <td>2013-2014</td>
-                    <td>Juba University</td>
+                    <td><a href="https://jubauni.net/">University of juba</a></td>
                     <td>2 semesters</td>
                     <td>Geology and Mining</td>
                 
@@ -56,7 +56,7 @@
 
                 <tr>
                     <td>2016-2021</td>
-                    <td>Indian Institute of Technology(ISM) Dhanbad </td>
+                    <td><a href="https://www.iitism.ac.in/">Indian Institute of Technology(ISM) Dhanbad</a></td>
                     <td>10 semester</td>
                     <td>Petroleum Engineering</td>
                 </tr>
@@ -76,15 +76,15 @@
     <h2>Skills</h2>
     <ol>
     
-        <li>Computer Programming :
+        <li><a href="https://en.wikipedia.org/wiki/Computer_programming">Computer Programming</a> :
             C++        </li>
-        <li>Web Design :
+        <li><a href="https://dchol122.github.io/The-Coffee-house/">Web Design</a> :
            <em> Html
             CSS,
             Java script
             </em>
         </li>
-        <li>Communication Skills</li>
+        <li><a href="https://scontent.fmaa8-1.fna.fbcdn.net/v/t1.0-9/61584260_1600886550046240_6386366247436550144_o.jpg?_nc_cat=102&_nc_sid=19026a&_nc_oc=AQkW_7LYXi3V3_tI5ZfgYzqLrx6lPitSh6uP3EsL4R5Jg2TcZ8z7nJKmEpyDkDaEajI&_nc_ht=scontent.fmaa8-1.fna&oh=6a21316dde16149d12e7200bbcd76200&oe=5F0651CA">Communication Skills</a></li>
         
 
 
