@@ -15,6 +15,7 @@
     <p>International Hostel</p>
     <p>826004,Dhanbad</p></td>
         </tr>
+        </tbody>
     </table>
     <hr>
     <p>I am a student at IIT(ISM) dhanbad ,currently pursuing bachelor's degree in petroleum engineering ,6th semeseter,the reason 
