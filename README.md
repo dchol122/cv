@@ -14,10 +14,10 @@
         behind choosing this course is to learn how to implement the latest known technology in Drilling ,production and reservoir enhancement in away that 
         the Enviroment is not destoryed.coming from these areas where oil is explored and produced ,i have seen lots of misuse 
         and misimplemtaion of safty measures both to the enviroment and the local residents ,which is causing a risky dreadful
-      hazard,poor GGC waste disposals which is a reslut of unwillingness of finding new applied methods
+      hazard,poor<a href="https://www.glossary.oilfield.slb.com/en/Terms/g/gathering_system.aspx">GGS</a> waste disposals which is a reslut of unwillingness of finding new applied methods
         used currently in this industry.
         Secondly,increasing production,this lies as a national concern more than it being mine.for the good use of these God given natural 
-        resourses maximum,can yield in building up a stronge economy for country ,lifting people from poverty 
+        resourses to the maximum,can yield in building up a stronge economy for the country ,lifting people from poverty 
         and growing a healthy sustainable economy. 
     </p>
 
