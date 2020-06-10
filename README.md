@@ -10,14 +10,14 @@
     <p>6th semester </p>
     <p>International Hostel</p>
     <p>826004,Dhanbad</p>
-    <p>I am student at IIT(ISM) dhanbad ,currently purusing bachelor's degree in petroleum engineering ,6th semeseter,the reason 
+    <p>I am a student at IIT(ISM) dhanbad ,currently purusing bachelor's degree in petroleum engineering ,6th semeseter,the reason 
         behind choosing this course is to learn how to implement the latest known technology in Drilling ,production and reservoir enhancement in away that 
         the environment is not destoryed.coming from these areas where oil is explored and produced ,i have seen lots of misuse 
-        and misimplemtaion of safty measures both to the environment and the local residents ,which is causing a risky dreadful
-      hazard,poor <a href="https://www.glossary.oilfield.slb.com/en/Terms/g/gathering_system.aspx">GGC</a> waste disposals which is a result of unwillingness of finding new applied methods
-        used currently in this industry.
-        Secondly,increasing production,this lies as a national concern more than it being mine.for the good use of these God given natural 
-        resourses maximum,can yield in building up a stronge economy for country ,lifting people from poverty 
+        and misimplemtaion of safety measures both to the environment and the local residents ,which is causing a risky dreadful health
+      hazard.poor <a href="https://www.glossary.oilfield.slb.com/en/Terms/g/gathering_system.aspx">GGC</a> waste disposals which is a result of unwillingness of finding new applied methods
+        used currently in the industry.
+        Secondly,increasing production,as much is a national concern ,is my mine too .for the good use of these God given natural 
+        resourses to the maximum,can yield in building up a stronge economy for country ,lifting people from poverty 
         and growing a healthy sustainable economy. 
     </p>
 
