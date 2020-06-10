@@ -4,7 +4,8 @@
 <meta charset="utf-8">
 <title>dchol web</title>
 <body>
-    <table cellspacing="60">
+    <table cellspacing="10">
+        <tbody>
         <tr>
             <td><img src="dchol155.png"></td>
 <td><h1>Daniel Chol</h1>
