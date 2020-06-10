@@ -6,8 +6,8 @@
 <body>
     <table cellspacing="10">
         <tbody>
-        <tr>
-            <td><img src="dchol155.png"></td>
+        <tr valign="TOP">
+            <td align"LEFT" valign="TOP" width="TOP"><img src="dchol155.png"></td>
 <td><h1>Daniel Chol</h1>
 <p><em><p><a href="https://www.iitism.ac.in/">Indian Institute of technology(ISM),Dhanbad</a></p>
     <p><a href="https://www.iitism.ac.in/index.php/Departments/dept_pe">Department of Petroleum Engineering</a></p>
