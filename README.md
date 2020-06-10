@@ -10,7 +10,7 @@
     <p>6th semester </p>
     <p>International Hostel</p>
     <p>826004,Dhanbad</p>
-    <p>I'm student at IIT(ISM) dhanbad ,currently pursing becholar of petroleum engineering ,6th semeseter,the reason 
+    <p>I'm a student at IIT(ISM) dhanbad ,currently pursing becholar of petroleum engineering ,6th semeseter,the reason 
         behind choosing this course is to learn how to implement the latest known technology in Drilling ,production and reservoir enhancement in away that 
         the Enviroment is not destoryed.coming from these areas where oil is explored and produced ,i have seen lots of misuse 
         and misimplemtaion of safty measures both to the enviroment and the local residents ,which is causing a risky dreadful
