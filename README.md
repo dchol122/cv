@@ -42,7 +42,7 @@
             <tfoot>
                 <tr>
                     <td>2008-2011</td>
-                    <td>Alqyada Secondary</td>
+                    <td>Algeyada Secondary</td>
                     <td>3 years</td>
                     <td>Sudan Certificate</td>
                 </tr>
