@@ -1,22 +1,15 @@
-<!DOCTYPE html>
 <html/>
 <head>
 <meta charset="utf-8">
 <title>dchol web</title>
 <body>
-    <table cellspacing="10">
-        <tbody>
-        <tr valign="TOP">
-            <td align"LEFT" valign="TOP" width="TOP"><img src="dchol155.png"></td>
-<td><h1>Daniel Chol</h1>
+   <img src="dchol155.png">
+<h1>Daniel Chol</h1>
 <p><em><p><a href="https://www.iitism.ac.in/">Indian Institute of technology(ISM),Dhanbad</a></p>
     <p><a href="https://www.iitism.ac.in/index.php/Departments/dept_pe">Department of Petroleum Engineering</a></p>
     <p>6th semester </p>
     <p>International Hostel</p>
-    <p>826004,Dhanbad</p></td>
-        </tr>
-        </tbody>
-    </table>
+    <p>826004,Dhanbad</p>
     <hr>
     <p>I am a student at IIT(ISM) dhanbad ,currently pursuing bachelor's degree in petroleum engineering ,6th semeseter,the reason 
         behind choosing this course is to learn how to implement the latest known technology in Drilling ,production and reservoir enhancement in away that 
@@ -110,4 +103,3 @@
 
 
 </body>
-</html>
