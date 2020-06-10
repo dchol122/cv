@@ -6,16 +6,16 @@
 <body>
     <img src="dchol155.png">
 <h1>Daniel Chol</h1>
-<p><em><p><a href="https://www.iitism.ac.in/">Indian Insitite of technology(ISM),Dhanbad</a></p>
+<p><em><p><a href="https://www.iitism.ac.in/">Indian Institute of technology(ISM),Dhanbad</a></p>
     <p><a href="https://www.iitism.ac.in/index.php/Departments/dept_pe">Department of Petroleum Engineering</a></p>
     <p>6th semester </p>
     <p>International Hostel</p>
     <p>826004,Dhanbad</p>
-    <p>I'm student at IIT(ISM) dhanbad ,currently pursing bachelor in petroleum engineering ,6th semeseter,the reason 
+    <p>I am student at IIT(ISM) dhanbad ,currently purusing bachelor degree in petroleum engineering ,6th semeseter,the reason 
         behind choosing this course is to learn how to implement the latest known technology in Drilling ,production and reservoir enhancement in away that 
         the environment is not destoryed.coming from these areas where oil is explored and produced ,i have seen lots of misuse 
-        and misimplemtaion of safty measures both to the enviroment and the local residents ,which is causing a risky dreadful
-      hazard,poor <a href="https://www.glossary.oilfield.slb.com/en/Terms/g/gathering_system.aspx">GGC</a> waste disposals which is a reslut of unwillingness of finding new applied methods
+        and misimplemtaion of safty measures both to the environment and the local residents ,which is causing a risky dreadful
+      hazard,poor <a href="https://www.glossary.oilfield.slb.com/en/Terms/g/gathering_system.aspx">GGC</a> waste disposals which is a result of unwillingness of finding new applied methods
         used currently in this industry.
         Secondly,increasing production,this lies as a national concern more than it being mine.for the good use of these God given natural 
         resourses maximum,can yield in building up a stronge economy for country ,lifting people from poverty 
