@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html/>
 <head>
 <meta charset="utf-8">
@@ -6,7 +5,7 @@
 <body>
     <img src="dchol155.png">
 <h1>Daniel Simon Chol Aguek</h1>
-<p><em><p><a href="https://www.iitism.ac.in/">Indian Insitite of technology(ISM),Dhanbad</a></p>
+<p><em><p><a href="https://www.iitism.ac.in/">Indian Institute of technology(ISM),Dhanbad</a></p>
     <p><a href="https://www.iitism.ac.in/index.php/Departments/dept_pe">Department of Petroleum Engineering</a></p>
     <p>6th semester </p>
     <p>International Hostel</p>
@@ -77,7 +76,7 @@
     <h2>Skills</h2>
     <ol>
     
-        <li>Computer Programing :
+        <li>Computer Programming :
             C++        </li>
         <li>Web Design :
            <em> Html
